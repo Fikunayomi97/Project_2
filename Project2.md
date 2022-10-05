@@ -41,3 +41,12 @@
 
 ![php_info_page](./Images/php_info.PNG)
 
+### Creating database and user
+
+![creating_database_and_user](./Images/creating-user-and-database.PNG)
+
+`INSERT INTO example_database.todo_list (content) VALUES ("My first important item"),`
+
+![to_do_list](./Images/creating_to-do-list_on_mysql.PNG)
+
+![to_do_list_on_browser](./Images/To-do-browser.PNG)
